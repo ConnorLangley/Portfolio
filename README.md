@@ -2,6 +2,7 @@
 
 ## About Me
 ![self Image](/assets/images/Selfpic.jpg)
+
 I am an aspiring software developer with hopes to further my career and work on projects that are interesting and full of challenges. 
 I love to learn and pick up new skills whenever and wherever I can to better myself and provide myself with the skillset to confront major challenges with enough knowledge and experience to tackle them with ease, and with various skills related to the Software development field, I believe I can tackle any challenge put my way. I work great in team environments and possess useful communication skills which help simplify communciation between team members and myself
 
