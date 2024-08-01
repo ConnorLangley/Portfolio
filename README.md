@@ -1,4 +1,4 @@
-# Software Developer
+#Software Developer
 
 ###Education
 North-West University BSc IT 3rd Year Student (2022-2024)
