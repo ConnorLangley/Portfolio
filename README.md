@@ -22,13 +22,13 @@ Internship @ Techmet
 ## Projects
 ### Encryption of multiple file types using DES
 ![encryption image](/assets/images/encImage.jpg)
-[github](https://github.com/ConnorLangley/CMPG-215-proj)
 
-Developed a Java-based encryption app with a GUI where any file type can be entered and then encrypted using the DES algorithm. the project includes a simple Java GUI and a very user-friendly approach to using the program
+
+Developed a Java-based encryption app with a GUI where any file type can be entered and then encrypted using the DES algorithm. the project includes a simple Java GUI and a very user-friendly approach to using the program [github](https://github.com/ConnorLangley/CMPG-215-proj)
 
 ### Supply, Sales and general management app
 [github link](https://github.com/ConnorLangley/Weapon-Store)
 
-Developed a system to help keep track of stock, sales and other day-to-day operations of a business, in this case, it was a weapons store. the processes and GUI's were created using C# and the .net framework. alongside the project, I also made a database using Oracle's Sql developer.
+Developed a system to help keep track of stock, sales and other day-to-day operations of a business, in this case, it was a weapons store. the processes and GUI's were created using C# and the .net framework. alongside the project, I also made a database using Oracle's Sql developer. [github](https://github.com/ConnorLangley/Weapon-Store)
 
 
