@@ -27,7 +27,7 @@ Internship @ Techmet
 Developed a Java-based encryption app with a GUI where any file type can be entered and then encrypted using the DES algorithm. the project includes a simple Java GUI and a very user-friendly approach to using the program [github](https://github.com/ConnorLangley/CMPG-215-proj)
 
 ### Supply, Sales and general management app
-[Stock image](/assets/images/stockCImage.jpeg)
+![Stock image](/assets/images/stockCImage.jpeg)
 
 Developed a system to help keep track of stock, sales and other day-to-day operations of a business, in this case, it was a weapons store. the processes and GUI's were created using C# and the .net framework. alongside the project, I also made a database using Oracle's SQL developer. [github](https://github.com/ConnorLangley/Weapon-Store)
 
