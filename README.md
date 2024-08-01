@@ -1,5 +1,9 @@
 # Connor Langley Software Developer
 
+## About Me
+I am an aspiring software developer with hopes to further my career and work on projects that are interesting and full of challenges. 
+I love to learn and pick up new skills whenever and wherever I can to better myself and provide myself with the skillset to confront major challenges with enough knowledge and experience to tackle them with ease, and with various skills related to the Software development field, I believe I can tackle any challenge put my way. I work great in team environments and possess useful communication skills which help simplify communciation between team members and myself
+
 ### Education
 North-West University BSc IT 3rd Year Student (2022-2024)
 Curro Waterstone College Matriculant
@@ -18,6 +22,9 @@ Internship @ Techmet
 - Junior Level Java
 - Junior Level Sql Developer
 - Junior Level SQl
+- Communication skills
+- Project management skills
+- Effective Time management skills
 
 ## Projects
 ### Encryption of multiple file types using DES
