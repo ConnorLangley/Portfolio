@@ -44,8 +44,8 @@ Developed a system to help keep track of stock, sales and other day-to-day opera
 ### Email
 connor.langley2003@gmail.com
 ### Instagram
-[Click here](https://www.instagram.com/the_corner35?igsh=ZW45d2s3OHYwejJr&utm_source=qr)
-###LinkedIn
+[Instagram](https://www.instagram.com/the_corner35?igsh=ZW45d2s3OHYwejJr&utm_source=qr)
+### LinkedIn
 [LindkedIn](https://www.linkedin.com/in/connor-langley-428b9a256/)
 
 
