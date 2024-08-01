@@ -21,7 +21,7 @@ Internship @ Techmet
 
 ## Projects
 ### Encryption of multiple file types using DES
-[encryption image](/assets/images/encImage.jpg)
+![encryption image](/assets/images/encImage.jpg)
 [github](https://github.com/ConnorLangley/CMPG-215-proj)
 
 Developed a Java-based encryption app with a GUI where any file type can be entered and then encrypted using the DES algorithm. the project includes a simple Java GUI and a very user-friendly approach to using the program
