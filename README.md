@@ -23,10 +23,12 @@ Internship @ Techmet
 - Junior Level C++
 - Junior Level Java
 - Junior Level Sql Developer
-- Junior Level SQl
+- Junior Level T-SQl
 - Communication skills
 - Project management skills
 - Effective Time management skills
+- Database Design
+- Database Management
 
 ## Projects
 ### Encryption of multiple file types using DES
