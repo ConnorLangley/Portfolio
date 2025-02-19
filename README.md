@@ -8,6 +8,7 @@ I love to learn and pick up new skills whenever and wherever I can to better mys
 
 ### Education
 North-West University BSc IT 3rd Year Student (2022-2024)
+
 Curro Waterstone College Matriculant
 
 ### Work Experience
@@ -15,13 +16,15 @@ Internship @ Microtronix
 -Security Development of new Factory development
 -Stock and workflow data collection and manipulation
 Internship @ Techmet 
--Network deconstruction 
+-Network deconstruction for large factory enviroments
 
 ### Skills
 - Junior Level Python
 - Junior Level C#
 - Junior Level C++
 - Junior Level Java
+- Junior Level JavaScript
+- Junior HTML & CSS
 - Junior Level Sql Developer
 - Junior Level T-SQl
 - Communication skills
